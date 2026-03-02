@@ -1,5 +1,5 @@
 # ECS-VB
-ECS 2026-Yapay zeka ve Veri bilimi
+ECS -Yapay zeka ve Veri bilimi Eğitimi
 
 Ders 1 - Python giriş : https://colab.research.google.com/drive/1JcKEpUu8oYnpl4jOtduwovlOjwWlnUQf?usp=sharing
 
