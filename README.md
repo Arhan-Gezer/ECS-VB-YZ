@@ -1,4 +1,4 @@
-# ECS-VB
+# ECS-VB-YZ
 ECS -Yapay zeka ve Veri bilimi Eğitimi
 
 Python giriş : https://colab.research.google.com/drive/1JcKEpUu8oYnpl4jOtduwovlOjwWlnUQf?usp=sharing
