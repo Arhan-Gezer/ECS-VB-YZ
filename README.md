@@ -13,6 +13,8 @@ Kaggle Titanik Yarışması:  https://www.kaggle.com/code/arhangezer/titanik-yar
 
 Araç Fiyat Tahmin:  https://colab.research.google.com/drive/1ZydIkr2qrQ69qu7IMv-qm8sbdAEddAfn?usp=sharing
 
+Müşteri Terk(Churn) Analizi: https://colab.research.google.com/drive/1YzhM4ASkwfRtdvKn4cvzsX8oa0RREB5r?usp=sharing
+
 Lineer Reg ve Keras ANN karşılaştırma: https://colab.research.google.com/drive/1TcsqeTQsb5VuptsHB55YT-gKFzHVeF-V?usp=sharing
 
 NLP - Doğal Dil İşlemenin Temelleri: https://colab.research.google.com/drive/1hXPGNqC7MbJTHe9RL2jJXnd58VRwMDiZ?usp=sharing
