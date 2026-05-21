@@ -40,3 +40,11 @@ Ders 24 - NLP - Doğal Dil İşlemenin Temelleri: https://colab.research.google.
 Ders 25 NLP - Youtube yorum sınıflandırma: https://colab.research.google.com/drive/1z8z0D31AbVqhPOaXm3u17a9F-PBgR8VS?usp=sharing
 
 Ders 26 - Kelime Bulutu: https://colab.research.google.com/drive/1eE7sBw2xfMic1E3ttZn1w0e14oZ47kUu?usp=sharing
+
+Ders 27 - HF model kullanımı transformers: https://colab.research.google.com/drive/1wROUxXESqjyDxXSGn08JYoGFJAGBbffW?usp=sharing
+
+Ders 28 - HF model kullanımı FB Translater: https://colab.research.google.com/drive/1fjP8-ZcIIqaXMxFtVki7VFoHWpVFEhMf?usp=sharing
+
+Ders 29 - HF model kullanımı Object Detection: https://colab.research.google.com/drive/1rnX5RjeX-VmTDzgBwbxWnoeeHd3ZQrB1?usp=sharing
+
+Ders 30 - HF model kullanımı Object Detection 3 Farklı yol: https://colab.research.google.com/drive/1mzFfYrQOOpsoOfgT8YTmv5z28zIB9mcp?usp=sharing
