@@ -58,3 +58,5 @@ Ders 28 - HF model kullanımı FB Translater: https://colab.research.google.com/
 Ders 29 - HF model kullanımı Object Detection: https://colab.research.google.com/drive/1rnX5RjeX-VmTDzgBwbxWnoeeHd3ZQrB1?usp=sharing
 
 Ders 30 - HF model kullanımı Object Detection 3 Farklı yol: https://colab.research.google.com/drive/1mzFfYrQOOpsoOfgT8YTmv5z28zIB9mcp?usp=sharing
+
+Ders 31 - LLMs API: https://colab.research.google.com/drive/1g-KodILxWto9sm6-H6qUjV4I2-hBMw-G?usp=sharing
