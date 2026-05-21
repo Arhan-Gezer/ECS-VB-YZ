@@ -13,9 +13,15 @@ Ders 4 - Kaggle Titanik Yarışması:  https://www.kaggle.com/code/arhangezer/ti
 
 Ders 5 - Araç Fiyat Tahmin:  https://colab.research.google.com/drive/1ZydIkr2qrQ69qu7IMv-qm8sbdAEddAfn?usp=sharing
 
-Ders 12- Google Trend Analizi: https://colab.research.google.com/drive/1YzhM4ASkwfRtdvKn4cvzsX8oa0RREB5r?usp=sharing
+Ders 12 - Google Trend Analizi: https://colab.research.google.com/drive/1YzhM4ASkwfRtdvKn4cvzsX8oa0RREB5r?usp=sharing
+
+Ders 14 - Finans Verileri çekme: https://colab.research.google.com/drive/1K1TaDYBSaZl0Amdu5-viXFyf7dGTTdMj?usp=sharing
+
+Ders 15 - Open Weather API ile Hava Durumu: https://colab.research.google.com/drive/1_wnkKwPy07M21i8x0ejSy2GJG1v5EAIL?usp=sharing
 
 Ders 16 - Müşteri Terk(Churn) Analizi: https://colab.research.google.com/drive/1YzhM4ASkwfRtdvKn4cvzsX8oa0RREB5r?usp=sharing
+
+Ders 17 - Zaman Serisi Analizi: https://colab.research.google.com/drive/18QxxL93EVo3PlwjuFfsv3VvJTRFcx3dj?usp=sharing
 
 Ders 23 - Lineer Reg ve Keras ANN karşılaştırma: https://colab.research.google.com/drive/1TcsqeTQsb5VuptsHB55YT-gKFzHVeF-V?usp=sharing
 
