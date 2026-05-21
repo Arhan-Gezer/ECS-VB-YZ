@@ -13,6 +13,8 @@ Ders 4 - Kaggle Titanik Yarışması:  https://www.kaggle.com/code/arhangezer/ti
 
 Ders 5 - Araç Fiyat Tahmin:  https://colab.research.google.com/drive/1ZydIkr2qrQ69qu7IMv-qm8sbdAEddAfn?usp=sharing
 
+Ders 10 - Corona Veri Seti Yarışan Grafikler: https://colab.research.google.com/drive/1e6UCw40aDjTLbBwdX8zVnOwtPrHwvTTT?usp=sharing
+
 Ders 12 - Google Trend Analizi: https://colab.research.google.com/drive/1YzhM4ASkwfRtdvKn4cvzsX8oa0RREB5r?usp=sharing
 
 Ders 13 (ödev) - hugging_face-Google_trends: https://colab.research.google.com/drive/1wIdFqZBZcoWQ_HAZHF0r65Lm5Gr7zB9Z?usp=sharing
