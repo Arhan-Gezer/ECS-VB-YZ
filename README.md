@@ -14,3 +14,5 @@ Kaggle Titanik Yarışması:  https://www.kaggle.com/code/arhangezer/titanik-yar
 Araç Fiyat Tahmin:  https://colab.research.google.com/drive/1ZydIkr2qrQ69qu7IMv-qm8sbdAEddAfn?usp=sharing
 
 Lineer Reg ve Keras ANN karşılaştırma: https://colab.research.google.com/drive/1TcsqeTQsb5VuptsHB55YT-gKFzHVeF-V?usp=sharing
+
+NLP: https://colab.research.google.com/drive/1hXPGNqC7MbJTHe9RL2jJXnd58VRwMDiZ?usp=sharing
