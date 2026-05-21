@@ -17,7 +17,9 @@ Ders 6 - Slider Foto Uygulaması: https://colab.research.google.com/drive/1pmgIE
 
 Ders 7 - Toplu Görsel İndirme: https://colab.research.google.com/drive/1pAw98uBvAhbMvTB5nq7qhYDnlEoXedDI?usp=sharing
 
-Ders 8 - 
+Ders 8 - Online Form: https://colab.research.google.com/drive/1-wONq7Jl_tliCtBbPMVcJrnLRbAKam8X?usp=sharing
+
+Ders 9 - Pandas ile Veri Çekme: https://colab.research.google.com/drive/1Q54PbP8kVtrXsgtcHh-EFLKZ8oYkMalf?usp=sharing
 
 Ders 10 - Corona Veri Seti Yarışan Grafikler: https://colab.research.google.com/drive/1e6UCw40aDjTLbBwdX8zVnOwtPrHwvTTT?usp=sharing
 
@@ -36,6 +38,8 @@ Ders 17 - Zaman Serisi Analizi: https://colab.research.google.com/drive/18QxxL93
 Ders 18 - Detaylı Adidas Veri Analizi Colab Vibe Coding ile: https://colab.research.google.com/drive/1CARP_IWf1hLuS1KwpH2ikOoZVLvgZiT2?usp=sharing
 
 Ders 19 - Öneri Sistemleri (Film Öneri Sistemi): https://colab.research.google.com/drive/14Zwv-luPhHb-HNF-3X9OwVwM1ygc5PLq?usp=sharing
+
+Ders 20 - OpenCV ile Görüntü İşleme: https://colab.research.google.com/drive/1pD_Wa5_JiCZTYWQNiDZDr3wBFURj2WB2?usp=sharing
 
 Ders 22 - ANN-Yapay Sinir Ağları: https://colab.research.google.com/drive/11cmpwgabzn_hqH5rsCGV5tKNiMYvjZ_K?usp=sharing
 
