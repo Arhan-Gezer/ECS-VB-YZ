@@ -9,4 +9,6 @@ Veri Analizi: https://colab.research.google.com/drive/1vSLwFvZG48At8dYZPfWkEUBR0
 
 Data: https://drive.google.com/file/d/1no-WeWMS7zI-C8F6IA3mlw9Bc-FmIjrR/view?usp=sharing
 
-Kaggle Titanik Yarışması: http://kaggle.com/code/arhangezer/titanik-yar-mas/edit
+Kaggle Titanik Yarışması:  https://www.kaggle.com/code/arhangezer/titanik-yar-mas-v2
+
+
