@@ -15,6 +15,8 @@ Ders 5 - Araç Fiyat Tahmin:  https://colab.research.google.com/drive/1ZydIkr2qr
 
 Ders 12 - Google Trend Analizi: https://colab.research.google.com/drive/1YzhM4ASkwfRtdvKn4cvzsX8oa0RREB5r?usp=sharing
 
+Ders 13 (ödev) - hugging_face-Google_trends: https://colab.research.google.com/drive/1wIdFqZBZcoWQ_HAZHF0r65Lm5Gr7zB9Z?usp=sharing
+
 Ders 14 - Finans Verileri çekme: https://colab.research.google.com/drive/1K1TaDYBSaZl0Amdu5-viXFyf7dGTTdMj?usp=sharing
 
 Ders 15 - Open Weather API ile Hava Durumu: https://colab.research.google.com/drive/1_wnkKwPy07M21i8x0ejSy2GJG1v5EAIL?usp=sharing
