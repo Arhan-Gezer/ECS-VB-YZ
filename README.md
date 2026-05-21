@@ -27,6 +27,12 @@ Ders 16 - Müşteri Terk(Churn) Analizi: https://colab.research.google.com/drive
 
 Ders 17 - Zaman Serisi Analizi: https://colab.research.google.com/drive/18QxxL93EVo3PlwjuFfsv3VvJTRFcx3dj?usp=sharing
 
+Ders 18 - Detaylı Adidas Veri Analizi Colab Vibe Coding ile: https://colab.research.google.com/drive/1CARP_IWf1hLuS1KwpH2ikOoZVLvgZiT2?usp=sharing
+
+Ders 19 - Öneri Sistemleri (Film Öneri Sistemi): https://colab.research.google.com/drive/14Zwv-luPhHb-HNF-3X9OwVwM1ygc5PLq?usp=sharing
+
+Ders 22 - ANN-Yapay Sinir Ağları: https://colab.research.google.com/drive/11cmpwgabzn_hqH5rsCGV5tKNiMYvjZ_K?usp=sharing
+
 Ders 23 - Lineer Reg ve Keras ANN karşılaştırma: https://colab.research.google.com/drive/1TcsqeTQsb5VuptsHB55YT-gKFzHVeF-V?usp=sharing
 
 Ders 24 - NLP - Doğal Dil İşlemenin Temelleri: https://colab.research.google.com/drive/1hXPGNqC7MbJTHe9RL2jJXnd58VRwMDiZ?usp=sharing
