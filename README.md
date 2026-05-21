@@ -11,4 +11,6 @@ Data: https://drive.google.com/file/d/1no-WeWMS7zI-C8F6IA3mlw9Bc-FmIjrR/view?usp
 
 Kaggle Titanik Yarışması:  https://www.kaggle.com/code/arhangezer/titanik-yar-mas-v2
 
+Araç Fiyat Tahmin:  https://colab.research.google.com/drive/1ZydIkr2qrQ69qu7IMv-qm8sbdAEddAfn?usp=sharing
+
 
